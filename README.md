@@ -73,6 +73,7 @@ A web and email-based puzzle game that has users interfacing with various servic
 
 ### 3.2 Architectural Diagrams
 
+![One Week Puzzle Diagrams](https://github.com/user-attachments/assets/a97fa3a5-86f7-4f70-817d-92bd70ec083e)
 
 ## Section 4: Data Dictionary
 ### User Data
@@ -93,8 +94,9 @@ a) User
 - Relationships: Singular point of interest of app
 
 ## Section 6: User Interface Design
-6.1 User Interface Design Overview
+### 6.1 User Interface Design Overview
+![User Interface Mockup](https://github.com/user-attachments/assets/f230aa32-ee2d-4c35-bf48-8a7c019d7828)
 
-6.2 User Interface Navigation Flow
+### 6.2 User Interface Navigation Flow
 
-6.3 Use Cases
+### 6.3 Use Cases
